@@ -38,7 +38,7 @@ This project performs **Sentiment Analysis** on textual data to classify input a
 
 ## 📂 Project Structure
 ## 📷HOME PAGE
-<img width="1919" height="1079" alt="Screenshot 2025-07-10 022634" src="https://github.com/user-attachments/assets/3a7d4e1e-c848-4032-b243-ac1f11899217" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-13 203611" src="https://github.com/user-attachments/assets/13ced166-4074-4794-a111-e36d4c814554" />
 
 ### 🔹 Prediction Output
 ## POSITIVE REVIEW
